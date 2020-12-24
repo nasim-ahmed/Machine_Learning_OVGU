@@ -14,3 +14,5 @@ A program that implements a simple sigmoid neural network using the delta rule.G
 positive and 0 being negative). Implemented the backpropagation
 algorithm with single sample correction (means updating the
 weights every data point).
+
+![alt text](https://github.com/nasim-ahmed/Machine_Learning_OVGU/blob/master/NeuralNetwork/nn_fig.png)
